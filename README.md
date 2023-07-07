@@ -24,3 +24,4 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+![image](https://github.com/Josephonate/Module_1_challenge/assets/131502920/e957702c-27c1-48e9-9cbd-e27234e0443c)
